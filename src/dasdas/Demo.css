@@ -1,3 +1,6 @@
 .button1 {
     color: red !important;
 }
+.MuiButton-root.button2 {
+    color: blue;
+}
